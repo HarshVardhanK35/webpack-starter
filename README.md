@@ -23,34 +23,29 @@ Description of project goes here.
 ## Getting Started
 
 ### Prerequisites
-
 - [Node.js](https://nodejs.org/) (v14 or higher)
 - [npm](https://www.npmjs.com/)
 
 ### Installation
 
 1. Clone the repository:
-
   ```bash
   git clone https://github.com/HarshVardhanK35/webpack-starter.git
   ```
 
 2. Install dependencies:
-
   ```
   npm install
   ```
 
 ## Folder-Structure
 - src/: Source code directory
-- index.html: Main HTML file
-- index.js: Main JavaScript entry file
-- styles/: SCSS files
+- src/index.html: Main HTML file
+- src/index.js: Main JavaScript entry file
+- modules/: Modules code directory
+- src/css/: style.css file
 - dist/: Output directory for the production build
 - node_modules/: Node.js modules (automatically generated)
-
-## Configuration
-Explain any configuration options or settings available in your project.
 
 ## Scripts
 List and explain any custom scripts defined in your project's package.json.
