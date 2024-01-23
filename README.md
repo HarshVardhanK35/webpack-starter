@@ -27,9 +27,9 @@ Description of project goes here.
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/HarshVardhanK35/webpack-starter.git
-   ```
+  ```bash
+  git clone https://github.com/HarshVardhanK35/webpack-starter.git
+  ```
 
 2. Install dependencies:
 
