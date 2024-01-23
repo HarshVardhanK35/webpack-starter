@@ -28,11 +28,14 @@ Description of project goes here.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/HarshVardhanK35/webpack-starter.git```
+   git clone https://github.com/HarshVardhanK35/webpack-starter.git
+   ```
 
 2. Install dependencies:
 
-  ```npm install```
+  ```
+  npm install
+  ```
 
 ## Usage
 Explain how to use your project. Provide examples and code snippets if necessary.
@@ -44,7 +47,11 @@ Explain any configuration options or settings available in your project.
 List and explain any custom scripts defined in your project's package.json.
 
 ### Start the development server.
-  ```npm run start```
+  ```
+  npm run start
+  ```
 
 ### Build the project for production.
-  ```npm run build```
+  ```
+  npm run build
+  ```
