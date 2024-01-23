@@ -7,21 +7,25 @@ Description of project goes here.
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
+- [Folder Structure](#folder-structure)
 - [Configuration](#configuration)
 - [Scripts](#scripts)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
-- List key features of your project.
+- **Webpack 5:** Configured with Webpack 5 for efficient bundling and asset management.
+- **Babel Setup:** Support for modern JavaScript features using Babel for better browser compatibility.
+- **CSS & Style Loaders:** Easily include stylesheets in your project with the help of CSS and style loaders.
+- **HTML Webpack Plugin:** Dynamically generate HTML files to include your bundled scripts and stylesheets automatically.
+- **Webpack Dev Server:** Quickly preview your project during development with the built-in development server.
+- **CSS Minify & Extract Plugin:** Minify and extract CSS files for optimized production builds.
 
 ## Getting Started
 
 ### Prerequisites
 
-- List any prerequisites or dependencies that users need to have installed before using your project.
+- [Node.js](https://nodejs.org/) (v14 or higher)
+- [npm](https://www.npmjs.com/)
 
 ### Installation
 
@@ -37,8 +41,13 @@ Description of project goes here.
   npm install
   ```
 
-## Usage
-Explain how to use your project. Provide examples and code snippets if necessary.
+## Folder-Structure
+- src/: Source code directory
+- index.html: Main HTML file
+- index.js: Main JavaScript entry file
+- styles/: SCSS files
+- dist/: Output directory for the production build
+- node_modules/: Node.js modules (automatically generated)
 
 ## Configuration
 Explain any configuration options or settings available in your project.
