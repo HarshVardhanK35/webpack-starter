@@ -50,8 +50,9 @@ Description of project goes here.
 ## Scripts
 List and explain any custom scripts defined in your project's package.json.
 
-### Start the development server.
-- to run automatically whenever there is any modification.
+### Start the development server
+ - to run automatically whenever there is any modification.
+
   ```
   npm run dev
   ```
