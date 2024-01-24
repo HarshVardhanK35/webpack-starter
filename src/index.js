@@ -4,8 +4,8 @@ import './css/style.css'
 
 const res = capitalizeWords('hello world');
 const person1 = new Person('John', 23);
-const mon = money(32)
+const mon = money(32);
 
 console.log(res)
 console.log(mon)
-person1.greet()
+console.log(person1)

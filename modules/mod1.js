@@ -8,7 +8,7 @@ function capitalizeWords(str){
   .join(" ")
 }
 
-function money(num){
+const money = (num) => {
   return `$${num}`
 }
 
